@@ -12,3 +12,5 @@ Options:
                         interface to change
   
   -m MAC, --mac=MAC     New MAC address
+
+Please use it as root. Otherwise it will not work.
