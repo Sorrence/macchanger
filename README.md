@@ -6,7 +6,7 @@ First python tool that I've created
 Usage: macchanger.py [options]
 
 Options:
-  -h, --help            show this help message and exit
+  -h, --help            show help message and exit
   
   -i INTERFACE, --interface=INTERFACE
                         interface to change
