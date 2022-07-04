@@ -1,4 +1,4 @@
-# macchanger-tool
+# macchanger
 First python tool that I've created
 
 # usage
